@@ -1,0 +1,29 @@
+{
+    "name": "Polkalokr",
+    "website": "https://polkalokr.com/",
+    "description": "Simplifying blockchain for individuals and businesses of all sizes - from new projects to enterprises - Polkalokr's solutions provide an on-ramp into crypto with no coding required.",
+    "explorer": "https://bscscan.com/token/0xa5ff48e326958e0ce6fdf9518de561f2b5f57da3",
+    "type": "BEP20",
+    "symbol": "LKR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa5ff48e326958e0ce6fdf9518de561f2b5f57da3",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Polkalokr"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Polkalokr"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/polkalokr"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/Polkalokr"
+        }
+    ]
+}
